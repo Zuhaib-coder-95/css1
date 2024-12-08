@@ -1,0 +1,23 @@
+h3{
+    color: orange;
+}
+
+h4{
+    color: yellow;
+}
+
+#heading2{
+    color: purple;
+}
+
+.myclass{
+    color: blue;
+}
+h5,h6{
+    color: green;
+}
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
